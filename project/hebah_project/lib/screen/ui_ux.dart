@@ -30,7 +30,7 @@ class SimpleLayoutPage extends StatelessWidget {
               color: Colors.green[100],
               height: 60,
               child: Center(
-                child: Text('Foot Section'),
+                child: Text('Footer Section'),
               ),
             ),
           ],
